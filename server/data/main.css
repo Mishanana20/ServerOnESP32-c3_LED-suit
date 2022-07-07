@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    color: #000099;
+    background-color: #ffffff;
+
+}
+
+.button {
+
+      background-color: #b00020;
+      border-style:ridge;
+border-color:#000099;
+border-width:3px;
+      color: #ffffff;
+      padding: 15px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 20px;
+      margin: 4px 4px;
+      cursor: pointer;
+      }
+header{
+    text-align: center;
+    font-family: sans-serif;
+    color: #000000;
+    background-color: #b00020;
+height:40px;
+
+
+}
+
